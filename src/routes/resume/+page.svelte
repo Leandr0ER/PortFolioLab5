@@ -8,37 +8,37 @@
 <section>
     <header>Interests</header>
     <ul>
-        <li>Scaring (Formerly) </li>
-        <li>Comedy</li>
-        <li>His Relationship with Celia Mae </li>
-        <li>The Theater</li>
+        <li>CS </li>
+        <li>Maths</li>
+        <li>ML </li>
+        <li>RL</li>
     </ul>
     </section>
 <section>
     <header>Education</header>
     <ul>
-        <li>Monsters University, Scaring Program</li>
-        <li>Codeacademy</li>
+        <li>B.Sc. Scientific Computing</li>
+        <li>M.Sc. Electronic Engineeringy</li>
+        <li>Ph.D. Student DS</li>
     </ul>
     </section>
 <section>
     <header>Experience</header>
     <ul>
-        <li>Monsters, Inc</li>
-        <ul>
-            <li>Worker in mailroom</li>
-            <li>Scarer assistant</li>
-            <li>Co-CEO of Monsters, Inc.</li>
-            <li>Jokester</li>
-        </ul>
+        <li>Technical Assistant</li>
+        <li>Supervisor</li>
+        <li>Lecturer</li>
+        <li>Instructor</li>
     </ul>
     </section>
 <section>
     <header>Extracurriculars</header>
     <ul>
-        <li>Won the Scare Games with <a href="https://disney.fandom.com/wiki/Oozma_Kappa">Oozma Kappa</a></li>
-        <li>Helped transition Monsters, Inc. into a laugh-based energy company.</li>
-        <li>Became a top comedian and mentor for future monsters</li>
+        <!-- <li>Biking <a href="https://disney.fandom.com/wiki/Oozma_Kappa">Oozma Kappa</a></li> -->
+        <li>Biking</li>
+        <li>Music</li>
+        <li>Sports</li>
+        <li>Sleep</li>
     </ul>
 </section>
 </div>
